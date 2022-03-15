@@ -1,0 +1,21 @@
+*{
+    color: white;
+    background-color: black;
+}
+
+.shopping-cart{
+    border: 5px solid white;
+    background-color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.shopping-cart, h1{
+    text-align: center;
+    text-shadow: 6px 6px 8px goldenrod;
+    font-weight: bold;
+}
+.shopping-cart, ul{
+    text-align: center;
+    list-style-type: none;
+    text-decoration: underline;
+
+}
